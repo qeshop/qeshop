@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @qeshop
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 😎 "https://qeshop.github.io" (or "https://qeshop.github.io/test" for latest stuff 🤷‍♂️)
